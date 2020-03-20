@@ -1,4 +1,4 @@
 ## Git is a distributed version control system.
 ## Git is free software distributed under the GPL.
 ## has a multable index called stage
-## Git tracks changes of files.
+## Git tracks some changes of files.
